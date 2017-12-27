@@ -19,7 +19,7 @@
 <html>
 <head>
 	<title>Welcome</title>
-	<link rel="stylesheet" type="text" href="assets/style.css">
+	<link href="assets/style.css" type="text/css" rel="stylesheet" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.css">
 
 	<script
